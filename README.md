@@ -19,7 +19,7 @@ So, for this week our focus will be practicing and mastering all of the basic fo
 
 1. Get confident with our coding environment: using Git, GitHub and VS Code.
 2. Build and host our first website using HTML and CSS.
-3. Confidently pair programme, including reviewing each other's code and giving feedback.
+3. Confidently pair program, including reviewing each other's code and giving feedback.
 4. Learn how to think carefully about user and client needs.
 
 #### Mindset:
