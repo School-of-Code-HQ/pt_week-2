@@ -29,7 +29,7 @@ So, for this week our focus will be practicing and mastering all of the basic fo
 
 ## Learning Journey 🗺
 
-The following tasks are for you to do in your own time, on your own and with your pair. They all will help you work towards meeting this week's objectives. Take your time, enjoy the process, and read around each part.
+The following tasks are for you to do in your own time, on your own and with your pair. They all will help you work towards meeting this week's objectives. Take your time, enjoy the process and read around each part.
 
 ### HTML and CSS Next Steps 👣
 
