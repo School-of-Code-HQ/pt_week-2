@@ -68,6 +68,8 @@ We could come up with a convention ourselves, and this is not a bad idea as long
 
 **Introducing BEM 🧱🔥🛠**
 
+![](./images/bem.png)
+
 BEM stands for Block Element Modifier. It is a naming convention to help us write nice clean HTML and CSS code. It's not super complicated, but the hard part is maintaining discipline as you code. Just remember: we know where you live.
 
 Read through [this quick-start guide](https://en.bem.info/methodology/quick-start/) for an overview of what BEM is. Read more thoughts about BEM in [this css-tricks article](https://css-tricks.com/bem-101/) and then apply the BEM naming convention to your code. In the long run sticking to a pattern will save you **A LOT** of time and stress. Keep it clean folks!
@@ -85,6 +87,8 @@ No matter how much CSS skill you have, if you don't know what you want the a pag
 This [tutorial](https://scrimba.com/learn/design) does and excellent job of taking you through UI design fundamentals.
 
 ### Continuous Deployment ☁️👽
+
+![](./images/netlify.png)
 
 Now that we can build awesome websites, wouldn't it be good if the world could see it?
 
