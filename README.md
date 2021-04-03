@@ -38,7 +38,7 @@ Now that we are comfortable with what HTML and CSS do, it's time for us to embed
 The best way to make sure these skills are second nature is to practice little and often. Here are some ideas that might help you get started, but feel free to build anything you like!
 
 - Make yourself an HTML and CSS business card.
-- Recreate a web page (you've done google, try it with others!)
+- Recreate a web page (you've done Google, try it with others!)
 - Recreate a part of a web page (see a button you like, try and copy it exactly with HTML and CSS).
 - Make a self portrait with CSS.
 - Recreate a famous painting with CSS.
