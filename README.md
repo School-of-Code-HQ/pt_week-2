@@ -7,7 +7,7 @@
 
 ## Overview
 
-This week, as well as building on our HTML and CSS skills, we will be focusing on what we make and why we make it. It sounds obvious, but user facing software should be built with the user in mind. This means thinking about what the user is trying to do and how you can make that goal as easy possible for them to achieve. Learning how to communicate information, design natural flowing interactions and having the technical skills bring your ideas to life will set you apart from other junior developers. Usually, junior developers become so consumed with the technology they are using, that they forget the bigger picture of why they are developing something. The world does not need more software, it needs more useful software.
+This week, as well as building on our HTML and CSS skills, we will be focusing on what we make and why we make it. It sounds obvious, but user facing software should be built with the user in mind. This means thinking about what the user is trying to do and how you can make that goal as easy possible for them to achieve. Learning how to communicate information, design natural flowing interactions and having the technical skills bring your ideas to life will set you apart from other junior developers. Usually, junior developers become so consumed with the technology they are using that they forget the bigger picture of why they are developing something. The world does not need more software, it needs more useful software.
 
 So, for this week our focus will be practicing and mastering all of the basic foundations, giving us the freedom to implement user centered designs.
 
