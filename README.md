@@ -39,7 +39,7 @@ The best way to make sure these skills are second nature is to practice little a
 
 - Make yourself an HTML and CSS business card.
 - Recreate a web page (you've done Google, try it with others!)
-- Recreate a part of a web page (see a button you like, try and copy it exactly with HTML and CSS).
+- Recreate a part of a web page (see a button you like? try and copy it exactly with HTML and CSS).
 - Make a self portrait with CSS.
 - Recreate a famous painting with CSS.
 - Make up your own ideas!
