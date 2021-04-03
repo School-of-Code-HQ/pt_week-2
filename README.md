@@ -44,7 +44,7 @@ The best way to make sure these skills are second nature is to practice little a
 - Recreate a famous painting with CSS.
 - Make up your own ideas!
 
-### CSS: Flex Box 💪
+### CSS: Flexbox 💪
 
 ![](./images/froggy.png)
 
@@ -58,7 +58,7 @@ We will start this week by learning about Flexbox. There are a few concepts to l
 - Once you've understood the basics you can take a look at [this great reference article with diagrams](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 - To have a bit of fun and 'flex' your skills, play this game called [Flexbox Froggy](https://flexboxfroggy.com/).
 
-Now that you can use flexbox, have a go at implementing it in some of your practice sites and use it in your checkpoint challenge!
+Now that you can use Flexbox, have a go at implementing it in some of your practice sites and use it in your checkpoint challenge!
 
 ### Clean Code and Naming Conventions
 
