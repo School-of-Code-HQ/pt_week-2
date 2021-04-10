@@ -141,6 +141,6 @@ Follow this link and accept the [GitHub Classroom assignment](https://classroom.
 
 ## Wednesday:
 
--[Git branching](https://vimeo.com/535256915/6758cb478b)
--[Code reviews](https://vimeo.com/535257777/9e8f621150)
+- [Git branching](https://vimeo.com/535256915/6758cb478b)
+- [Code reviews](https://vimeo.com/535257777/9e8f621150)
 
