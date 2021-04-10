@@ -139,7 +139,7 @@ Follow this link and accept the [GitHub Classroom assignment](https://classroom.
 
 ### Live Session Videos
 
-## Wednesday:
+#### Wednesday:
 
 - [Git branching](https://vimeo.com/535256915/6758cb478b)
 - [Code reviews](https://vimeo.com/535257777/9e8f621150)
